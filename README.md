@@ -25,6 +25,7 @@ the Order Details table to compute the revenue (Amount * Quantity) per order.
 Create a Calculated Column to Categorize Sales: Add a calculated column named
 ‘Sales Category’ in the Order Details table that categorizes each order as 'Above
 Average' or 'Below Average' based on the Amount value.
+
 #Answers
 #Step 3: Create the calculated columns
 Click Data view → Order Details table → New column. Enter each formula separately in the formula bar.
