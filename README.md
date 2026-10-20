@@ -151,12 +151,36 @@ MIN('Sales target'[Target])
 If your target table has no Segment column, use the actual field available or check the assignment's intended target breakdown.
 
 Table visual use 
-1. Table icon select 
-Ningalude screenshot-il icons row-il grid pole kaanunna Table icon undu. Athu click cheyyuka.
-2. Fields add cheyyuka
+1. Select Table Visual
+2. Add Fields
 Category
 Minimum Target
-Ithu oro category-yudeyum minimum target kaanikkum.
+
+6. Sales Performance Matrix
+   Matrix
+•Rows: Category
+•Columns: Year-Month
+•Values: Total Sales and Total Target
+This helps you identify months and categories where sales are above or below target.
+
+7. Geographic Sales Analysis
+   Map
+•Location: City
+•Bubble size: Total Sales
+Set the City column's data category to City under Column tools if needed.
+
+8. Sales Distribution by Sub-Category
+   Treemap
+•Category: Sub-Category
+•Values: Total Sales
+Larger rectangles represent sub-categories with higher sales.
+
+9. Order Count by State
+    Funnel chart
+•Category: State
+•Values: Order Count
+Sort by Order Count in descending order to make the state-wise comparison easier to read.
+
 
 
 
